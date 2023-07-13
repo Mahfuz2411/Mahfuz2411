@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mahfuz2411.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m not looking to collaborate on.
-- 📫 How to reach me -> No needs.
+- 📫 How to reach me -> mahfuzibnesyful24@gmail.com.
 
 <!---
 Mahfuz2411/Mahfuz2411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
