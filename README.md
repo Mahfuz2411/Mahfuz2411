@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Mahfuz Ibne Syful</h1>
-<h3 align="center">I love programming in evry universe</h3>
+<h3 align="center">I love programming in every universe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz2411&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz2411" /> </p>
 
