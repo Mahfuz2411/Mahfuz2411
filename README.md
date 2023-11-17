@@ -40,17 +40,17 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
-###
 <hr/>
-###
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz2411&show_icons=true&locale=en&layout=compact" alt="mahfuz2411" /></p>
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz2411&show_icons=true&locale=en&layout=compact" alt="mahfuz2411" /></p> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuz2411&show_icons=true&locale=en" alt="mahfuz2411" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz2411" alt="mahfuz2411" /></p>
-###
-<hr/>
-###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuz2411&show_icons=true&locale=en" alt="mahfuz2411" /></p>
-###
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz2411" alt="mahfuz2411" /></p>
