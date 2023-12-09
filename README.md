@@ -48,5 +48,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 <hr/>
 <p align="center">
-  <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz2411&show_icons=true&locale=en&layout=compact" alt="mahfuz2411" /></span>
+  <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz2411&show_icons=true&locale=en&layout=compact" alt="mahfuz2411" /></span>
 </p> 
