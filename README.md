@@ -8,6 +8,8 @@
 Mahfuz2411/Mahfuz2411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/assets/banner-first.png" alt="Mahfuz2411" />
+
 <h1 align="center">Hi 👋, I'm Mahfuz Ibne Syful</h1>
 <h3 align="center">I love programming in every universe</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz2411&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz2411" /> </p>
