@@ -56,7 +56,6 @@ You can click the Preview link to take a look at your changes.
 <hr/>
 <!-- <br/><br/><br/><br/><br/><br/><br/><br/> -->
 <p align="center">
-  <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz2411&theme=dark" alt="mahfuz2411" /></span>&nbsp;&nbsp;
-  <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuz2411&show_icons=true&locale=en&theme=dark" alt="mahfuz2411" /></span>
+  <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz2411&theme=dark" alt="mahfuz2411" /></span>&nbsp;&nbsp;<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfuz2411&show_icons=true&locale=en&theme=dark" alt="mahfuz2411" /></span>
 </p>
 
