@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <hr/>
 
 <p align="left">
-<h3 align="left">Onlice judge:</h3>
+<h3 align="left">Onlice judges:</h3>
 <a href="https://www.leetcode.com/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahfuz2411" height="30" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahfuz2411" height="30" width="40" /></a>&nbsp;
 <a href="https://codeforces.com/profile/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahfuz2411" height="30" width="30" /></a>&nbsp;
