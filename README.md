@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **mahfuzibnesyful24@gmail.com**
 <hr/>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & Skills</h3>
 <p align="center">     
   <img src="https://skillicons.dev/icons?i=c" />&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;
