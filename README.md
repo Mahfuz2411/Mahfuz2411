@@ -6,10 +6,17 @@
 Mahfuz2411/Mahfuz2411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- 
 <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/assets/banner-first.png" alt="Mahfuz2411" />
+-->
+<h1 align="center">Hi 👋, I'm Mahfuz Ibne Syful</h1><h3 align="center">Full Stack Developer (MERN)</h3>
 
-<h1 align="center">Hi 👋, I'm Mahfuz Ibne Syful</h1>
-<h3 align="center">I love programming in every universe</h3>
+<hr/>
+
+<!-- <h3 align="center">I love programming in every universe</h3> -->
+<h4 align="center">About Me</h4>
+I'm Mahfuz, a dedicated full-stack developer passionate about crafting dynamic, efficient web applications. My tech stack includes <b>JavaScript</b>, <b>Python</b>, <b>C++</b>, and the MERN stack (MongoDB, Express, React, and Node) enabling me to build both the front and back ends of projects seamlessly. I love exploring new technologies and solving complex problems to deliver smooth, high-performance solutions. Always eager to learn, I'm driven to innovate and enhance my skills in every project I undertake. Let's build something amazing together!
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz2411&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz2411" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuz2411&theme=discord" alt="mahfuz2411" /></a> </p>
 <hr/>
