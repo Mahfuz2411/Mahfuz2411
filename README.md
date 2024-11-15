@@ -15,7 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <h3 align="center">I love programming in every universe</h3> -->
 <h4 align="center">About Me</h4>
-I'm Mahfuz, a dedicated full-stack developer passionate about crafting dynamic, efficient web applications. My tech stack includes <b>JavaScript</b>, <b>Python</b>, <b>C++</b>, and the MERN stack (MongoDB, Express, React, and Node) enabling me to build both the front and back ends of projects seamlessly. I love exploring new technologies and solving complex problems to deliver smooth, high-performance solutions. Always eager to learn, I'm driven to innovate and enhance my skills in every project I undertake. Let's build something amazing together!
+<p>
+  I'm Mahfuz, a dedicated full-stack developer passionate about crafting dynamic, efficient web applications. My tech stack includes <b>JavaScript</b>, <b>Python</b>, <b>C++</b>, and the 
+  MERN stack (MongoDB, Express, React, and Node) enabling me to build both the front and back ends of projects seamlessly. I love exploring new technologies and solving complex problems 
+  to deliver smooth, high-performance solutions. Always eager to learn, I'm driven to innovate and enhance my skills in every project I undertake.
+</p>
 <hr/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz2411&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz2411" /> </p> -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuz2411&rank=-?,A&theme=discord" alt="mahfuz2411" /></a> </p>
