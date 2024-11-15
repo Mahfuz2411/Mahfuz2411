@@ -27,9 +27,10 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **mahfuzibnesyful24@gmail.com**
 <hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
@@ -40,19 +41,20 @@ You can click the Preview link to take a look at your changes.
 
 <hr/>
 
-<p align="left">
-<h3 align="left">Onlice judges:</h3>
-<a href="https://www.leetcode.com/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahfuz2411" height="30" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahfuz2411" height="30" width="40" /></a>&nbsp;
-<a href="https://codeforces.com/profile/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahfuz2411" height="30" width="30" /></a>&nbsp;
-<a href="https://www.codechef.com/users/mahfuz2411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mahfuz2411" height="30" width="40" /></a>&nbsp;
+<h3 align="center">Onlice judges:</h3>
+
+<p align="center">
+  <a href="https://www.leetcode.com/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahfuz2411" height="30" width="40" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahfuz2411" height="30" width="40" /></a>&nbsp;
+  <a href="https://codeforces.com/profile/mahfuz2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahfuz2411" height="30" width="30" /></a>&nbsp;
+  <a href="https://www.codechef.com/users/mahfuz2411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mahfuz2411" height="30" width="40" /></a>&nbsp;
 </p>
 
 
 
 <hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://instagram.com/mahfuz.avi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfuz.avi" height="30" width="40" /></a>&nbsp;
 <a href="https://www.facebook.com/mahfuzibnesyful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuz.avi" height="30" width="40" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/mahfuz-ibne-syful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahfuz.avi" height="30" width="40" /></a>&nbsp;
