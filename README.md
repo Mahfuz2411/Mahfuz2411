@@ -68,6 +68,7 @@ You can click the Preview link to take a look at your changes.
 <hr/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<!-- <a href="https://www.facebook.com/mahfuzibnesyful" target="blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>&nbsp; -->
 <a href="https://instagram.com/mahfuz.avi" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>&nbsp;
 <!-- <a href="https://www.facebook.com/mahfuzibnesyful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuz.avi" height="30" width="40" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/mahfuz-ibne-syful" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
@@ -88,5 +89,5 @@ You can click the Preview link to take a look at your changes.
   <span><img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=mahfuz2411&show_icons=true&locale=en&theme=react" alt="mahfuz2411" /></span>
 </p>
 <!-- <p>
-  comming soon
+  coming soon
 </p> -->
