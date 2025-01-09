@@ -51,6 +51,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=git"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=github"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode"/>&nbsp; 
+  <img src="https://skillicons.dev/icons?i=figma"/>&nbsp; 
+  <img src="https://skillicons.dev/icons?i=notion"/>&nbsp; 
 </p> 
 <hr/>
 
