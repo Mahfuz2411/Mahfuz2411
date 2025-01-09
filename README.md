@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
 <!--   <a href="" target="_blank"> 
     <img width="" height="25" src="https://img.shields.io/badge/label-Mahfuz2411-white?style=flat&logo=hackerearth&logoColor=white&label=HckerEarth&labelColor=%23484848&color=%23c4c4c4" alt="Hacker Earth"/>
   </a>&nbsp;&nbsp; -->
-  <a href="https://leetcode.com/u/mahfuz2411/" target="_blank"> 
+  <a href="https://leetcode.com/u/mahfuz2411/" target="blank"> 
     <img width="" height="25" src="https://img.shields.io/badge/label-Mahfuz2411-white?style=flat&logo=leetcode&logoColor=%23eab03c&label=LeetCode&labelColor=%23484848&color=%23c4c4c4" alt="LeetCode"/>
   </a>&nbsp;&nbsp;
 </p>
