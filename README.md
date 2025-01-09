@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://atcoder.jp/users/Mahfuz2411" target="blank"> 
     <img width="" height="25" src="https://img.shields.io/badge/label-Mahfuz2411-white?style=flat&logo=aframe&logoColor=white&label=AtCoder&labelColor=%233d3d3d&color=%23cccccc" alt="AtCoder"/>
   </a>&nbsp;&nbsp;
-<!--   <a href="https://toph.co/u/pritompaul1920" target="_blank"> 
+<!--   <a href="" target="_blank"> 
     <img width="" height="25" src="https://img.shields.io/badge/label-pritompaul1920-white?style=flat&logo=toph&logoColor=white&label=T Toph&labelColor=%233d3d3d&color=%23cccccc" alt="Toph"/>
   </a>&nbsp;&nbsp; -->
   <a href="https://www.hackerrank.com/profile/Mahfuz2411" target="blank"> 
