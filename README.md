@@ -69,9 +69,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align = "center">
-  <a href="https://www.stopstalk.com/user/profile/mahfuz2411" target="blank"> 
+  <!-- <a href="https://www.stopstalk.com/user/profile/mahfuz2411" target="blank"> 
     <img width="" height="25" src="https://img.shields.io/badge/StopsTalk-Mahfuz2411-white?style=flat&logo=stopstalk&logoColor=red&label=StopStalk&labelColor=%233d3d3d&color=%23cccccc" alt="StopStalk"/> 
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="https://codeforces.com/profile/Mahfuz2411" target="blank"> 
     <img width="" height="25" src="https://img.shields.io/badge/label-Mahfuz2411-white?style=flat&logo=codeforces&logoColor=%1380c3&label=CodeForces&labelColor=%233d3d3d&color=%23cccccc" alt="CodeForces"/>
   </a>&nbsp;&nbsp;
