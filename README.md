@@ -133,7 +133,7 @@ You can click the Preview link to take a look at your changes.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/snake.svg">
-    <imgalt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/snake.svg">
   </picture>
 </div>
 
