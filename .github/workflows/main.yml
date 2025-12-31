@@ -1,0 +1,39 @@
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 6 * * *" 
+  
+  workflow_dispatch:
+  
+  push:
+    branches:
+    - master
+    
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: push snake.svg to the repository
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Update snake.svg'
+          add: 'snake.svg'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
