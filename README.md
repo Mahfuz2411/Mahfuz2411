@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
   MERN stack (MongoDB, Express, React, and Node) enabling me to build both the front and back ends of projects seamlessly. I love exploring new technologies and solving complex problems 
   to deliver smooth, high-performance solutions. Always eager to learn, I'm driven to innovate and enhance my skills in every project I undertake.
 </p>
-<hr/>
+<!-- <hr/> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz2411&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz2411" /> </p> -->
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mahfuz2411&rank=-?,A&theme=discord" alt="github profile trophy not working!! 🙄" /> </p>
+<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mahfuz2411&rank=-?,A&theme=discord" alt="github profile trophy not working!! 🙄" /> </p> -->
 <hr/>
 - 📫 How to reach me **mahfuzibnesyful24@gmail.com**
 <hr/>
