@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=java"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=python"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=js"/>
+  <img src="https://skillicons.dev/icons?i=ts"/>
 </p>
 <p align="center">     
   <img src="https://skillicons.dev/icons?i=html"/>&nbsp;
@@ -42,6 +43,19 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=mongodb"/>  &nbsp;
   <img src="https://skillicons.dev/icons?i=express"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=react"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=discordjs"/>
+</p>
+<hr/>
+
+<h3 align="center">Exploring..</h3>
+<p align="center">     
+  <img src="https://skillicons.dev/icons?i=django"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql"/>  &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </p>
 
